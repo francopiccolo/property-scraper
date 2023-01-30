@@ -1,0 +1,7 @@
+draft*
+data/
+.env
+.DS_Store
+nohup.out
+*.json
+__pycache__
